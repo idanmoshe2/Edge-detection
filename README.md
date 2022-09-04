@@ -1,4 +1,4 @@
-# Edge-detection
+# edge-detection
 
 
 This project implemented two algorithms for edge detection in the image (Edge Detection) and to improve the image obtained by using filters.
