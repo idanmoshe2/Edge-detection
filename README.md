@@ -1,5 +1,5 @@
 # Edge-detection
-Implementing two edge detection algorithms in the field of image processing
+Implementing two edge detection algorithms in the field of image processing.
 
 This project implemented two algorithms for edge detection in the image (Edge Detection) and to improve the image obtained by using filters.
 Edge recognition is helpful in identifying different objects and shapes in images by highlighting the boundaries of different objects in the image,
